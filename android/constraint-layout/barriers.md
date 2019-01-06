@@ -10,7 +10,7 @@ I recently had a requirement where a textview had to be constrained on the left 
 This scenario can easily occur if the text in these textviews is going to be dynamic or if your app supports multiple languages.
 My first thought for handling this was to wrap `textView1` and `textView2` inside a `LinearLayout` with width equal to `wrap_content`, 
 but then that would have increased the hierarchy of my views by one. Given ConstraintLayout was designed to flatten view hierarchy 
-I looked if constraint layout provided a solution for this which it did. For handling such scenarios constraint layout provides a view called [Barrier](https://developer.android.com/reference/android/support/constraint/Barrier).
+I looked if constraint layout provided a solution for this which it did. For handling such scenarios constraint layout provides a view called Barrier.
 You add Barrier to your constraint layout, add `textView1` and `textView2` to barrier using `constraint_referenced_ids`, set `barrierDirection`
 to `end` since `barrier` is to be applied to `end` of `textView1` and `textView2` and finally put `layout_constraintStart_toEndOf`
 of `textView3` to `barrier`. This way `textView3` will be constrained to both `textView2` and `textView1`.
@@ -61,3 +61,6 @@ of `textView3` to `barrier`. This way `textView3` will be constrained to both `t
 
 </android.support.constraint.ConstraintLayout>
 ```
+Links
+- [Constraint Layout](https://developer.android.com/reference/android/support/constraint/ConstraintLayout)
+- [Barrier](https://developer.android.com/reference/android/support/constraint/Barrier)
