@@ -3,6 +3,9 @@ A collection of things I learn on a day to day basis about technology
 
 ## Android
 
+### Animations
+- [How to add smooth animations without adding any extra code (almost no code :P)](android/animations/basics.md)
+
 ### Constraint Layout
 - [How to constrain one side of a view to more than one view in ConstraintLayout?](android/constraint-layout/barriers.md)
 
