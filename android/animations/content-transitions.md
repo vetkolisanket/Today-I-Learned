@@ -27,3 +27,5 @@ startActivity(ExplodeActivity.newIntent(this), ActivityOptionsCompat.makeSceneTr
 ```
 
 Thats it and you'll have an explode animation while starting your activity. You can replace explode with any animation of your choice like fade in, fade out, slide etc
+
+Reference [Stack overflow answer](https://stackoverflow.com/a/48473951/4291698)
