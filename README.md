@@ -5,6 +5,7 @@ A collection of things I learn on a day to day basis about technology
 
 ### Animations
 - [How to add smooth animations without adding any extra code (almost no code :P)](android/animations/basics.md)
+- [How to add enter exit animations to your activity](android/animations/content-transitions.md)
 
 ### Constraint Layout
 - [How to constrain one side of a view to more than one view in ConstraintLayout?](android/constraint-layout/barriers.md)
