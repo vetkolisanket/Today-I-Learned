@@ -13,6 +13,9 @@ A collection of things I learn on a day to day basis about technology
 ### Libraries
 - [How to display FPS a screen renders visually](android/libraries/TinyDancer.md)
 
+### General
+- [How to have auto adjust text size in a text view](android/general/autotextsize.md)
+
 ## Java
 - [How to link resources in javadoc comments](java/linking-resources-in-javadoc-comments.md)
 
