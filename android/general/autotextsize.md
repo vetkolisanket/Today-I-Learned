@@ -2,7 +2,7 @@
 
 If you want to auto adjust text size in a text view depending on the content of the text view you can use 
 `app:autoSizeTextType="uniform"` attribute in your textview xml. Thats it. You can provide max and min text size can grow or 
-shrink, you can also provide the step count at which it grows or shrink. For more information refer [here](https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview)
+shrink, you can also provide the step count at which it grows or shrink. For more information refer [here](https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview).
 
 
     <?xml version="1.0" encoding="utf-8"?>
@@ -14,13 +14,15 @@ shrink, you can also provide the step count at which it grows or shrink. For mor
       android:padding="4dp">
 
         <TextView
-          android:id="@+id/tv_count"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:gravity="center_horizontal"
-          android:textColor="@color/black"
-          android:textSize="24sp"
-          tools:text="100" />
+            android:id="@+id/tv_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:lines="1"
+            android:textColor="@color/black"
+            app:autoSizeMinTextSize="20sp"
+            app:autoSizeTextType="uniform"
+            tools:text="100" />
 
         <TextView
           android:id="@+id/tv_title"
