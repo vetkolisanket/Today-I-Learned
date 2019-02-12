@@ -14,7 +14,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to display FPS a screen renders visually](android/libraries/TinyDancer.md)
 
 ### Gradle
-- [How to have build variants for different stages of development?](android/gradle/build-variant.md)
+- [How to have build variants for different stages of development?](android/gradle/build-variants.md)
 
 ### General
 - [How to have auto adjust text size in a text view](android/general/autotextsize.md)
