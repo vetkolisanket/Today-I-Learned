@@ -24,6 +24,9 @@ A collection of things I learn on a day to day basis about technology
 ## Java
 - [How to link resources in javadoc comments](java/linking-resources-in-javadoc-comments.md)
 
-## Inspiration
+## Golang
+- [How to store structs onto redis in an efficient way]()
+
+### Inspiration
 Inspired by [anitaa1990/Today-I-Learned](https://github.com/anitaa1990/Today-I-Learned)
 
