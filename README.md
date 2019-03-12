@@ -26,6 +26,7 @@ A collection of things I learn on a day to day basis about technology
 
 ## Golang
 - [How to store structs onto redis in an efficient way](golang/store-struct-in-redis.md)
+- [gRPC in Go](golang/grpc-in-go.md)
 
 ### Inspiration
 Inspired by [anitaa1990/Today-I-Learned](https://github.com/anitaa1990/Today-I-Learned)
