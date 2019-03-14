@@ -1,4 +1,4 @@
 # Code Snippets
 
-- [GoLang]()
+- [GoLang](../golang/code-snippets.md)
 
