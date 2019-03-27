@@ -9,3 +9,4 @@
 When the bash shell is started, it reads its configuration files. The most important are:
 • /etc/profile
 • ~/.bash_profile • ~/.bashrc
+- `eval` - command which takes an argument and constructs a command out of it, which will be executed by the shell. [example](https://unix.stackexchange.com/a/23117) 
