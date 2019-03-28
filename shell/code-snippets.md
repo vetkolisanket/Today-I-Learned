@@ -1,9 +1,8 @@
 # Code Snippets
 
 - cat /etc/shells - gives overview of known shells on a linux system
-- /etc/passwd - stores the default shell
-- To switch from a one shell to another just type that shell’s name e.g. zsh, bash, ksh, csh
-- .zsh_history or .bash_history - stores history of all commands you have used on that shell
-- adding a space before writing a shell command, executes the command while not storing it in history
+- `eval` - command which takes an argument and constructs a command out of it, which will be executed by the shell. [example](https://unix.stackexchange.com/a/23117)
+- `set` - command to set or unset values of shell options and positional parameters. e.g. `set -x` show commands and their arguments as they are executed. Useful for debugging shell script.
+- To switch from one shell to another just type that shell’s name e.g. zsh, bash, ksh, csh
 
 
