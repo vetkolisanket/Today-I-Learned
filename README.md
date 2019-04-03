@@ -30,6 +30,9 @@ A collection of things I learn on a day to day basis about technology
 
 ## Python
 
+## Git
+- [How to move a particular change (not the entire stash) from one branch to another](git/cherry-pick.md)
+
 # [Code Snippets](code-snippets/readme.md)
 
 ### Inspiration
