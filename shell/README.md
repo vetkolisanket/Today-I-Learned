@@ -9,3 +9,4 @@ When the bash shell is started, it reads its configuration files. The most impor
 • /etc/profile
 • ~/.bash_profile • ~/.bashrc 
 - /etc/passwd - stores the default shell
+- netstat -ntulp - shows the list of ports and the things running on them (worked on ubuntu, not working on mac :()
