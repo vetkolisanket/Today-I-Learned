@@ -30,6 +30,16 @@ It is generally recommended to keep all your virtual environments at one place:
 virtualenv ~/virts/venv-my-project-name
 ```
 
+If you want to specify python interpreter of your choice, you can do it as below:
+
+```
+virtualenv -p /usr/bin/python3 virtualenv_name
+```
+
+```
+virtualenv -p /usr/bin/python2.7 virtualenv_name
+```
+
 ## How to activate and deactivate?
 
 To activate a virtual environment use the below command:
