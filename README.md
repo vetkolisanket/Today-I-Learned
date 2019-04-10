@@ -29,6 +29,7 @@ A collection of things I learn on a day to day basis about technology
 - [gRPC in Go](golang/grpc-in-go.md)
 
 ## Python
+- [Virtual Enviroment in Python](virtual-environment.md)
 
 ## Git
 - [How to move a particular change (not the entire stash) from one branch to another](git/cherry-pick.md)
