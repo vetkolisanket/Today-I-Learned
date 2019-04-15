@@ -10,9 +10,9 @@ python -m pip install grpcio
 ```
 protoc --proto_path=. --python_out=proto proto/api.proto --proto_path=home/shree/include
 ```
-The seconde proto_path specifies location of any dependency like say google.protobuf.Any.go, up until the directory which contains this structure
+The second proto_path specifies location of any dependency like say google/protobuf/Any.go, up until the directory which contains this structure
 - To generate server side file for gRPC
 ```
 python -m grpc.tools.protoc --proto_path=. api.proto --python_out=. --grpc_python_out=. --proto_path=/home/shree/include
 ```
-The seconde proto_path specifies location of any dependency like say google/protobuf/Any.go, up until the directory which contains this structure
+The second proto_path specifies location of any dependency like say google/protobuf/Any.go, up until the directory which contains this structure
