@@ -5,4 +5,5 @@
 - [Mac](../mac/code-snippets.md)
 - [Redis](../redis/code-snippets.md)
 - [Shell](../shell/code-snippets.md)
+- [Mongo](../mongo/code-snippets.md)
 
