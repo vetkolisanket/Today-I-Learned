@@ -6,4 +6,5 @@
 - [Redis](../redis/code-snippets.md)
 - [Shell](../shell/code-snippets.md)
 - [Mongo](../mongo/code-snippets.md)
+- [Flutter](../android/flutter/code-snippets.md)
 
