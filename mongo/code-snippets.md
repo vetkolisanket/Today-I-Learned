@@ -35,3 +35,15 @@ To show documents within a collection
 ```
 db.<collection name>.find()
 ```
+
+To show documents containing a particular field (in the below example the key is "type")
+
+```
+db.<collection name>.find({"type":{$exists:true}})
+```
+
+To show documents containing a particular field having values in a particular set of values
+
+```
+db.<collection name>.find({"type":{"$in":["a","b","c"]}})
+```
