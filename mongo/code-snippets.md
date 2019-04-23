@@ -36,7 +36,7 @@ To show documents within a collection
 db.<collection name>.find()
 ```
 
-To show documents containing a particular field (in the below example the key is "type")
+To show documents containing a particular field (in the below example the field is "type")
 
 ```
 db.<collection name>.find({"type":{$exists:true}})
