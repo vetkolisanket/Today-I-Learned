@@ -7,5 +7,5 @@
 - [Shell](../shell/code-snippets.md)
 - [Mongo](../mongo/code-snippets.md)
 - [Flutter](../android/flutter/code-snippets.md)
-- [Git](../android/git/code-snippets.md)
+- [Git](../git/code-snippets.md)
 
