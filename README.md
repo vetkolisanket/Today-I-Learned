@@ -31,6 +31,7 @@ A collection of things I learn on a day to day basis about technology
 ## Python
 - [Virtual Enviroment in Python](python/virtual-environment.md)
 - [How to get a default value from a dict if a key is not present](python/default-value-from-a-dict.md)
+- [Comprehensions in python](python/comprehensions.md)
 
 ## Git
 - [How to move a particular change (not the entire stash) from one branch to another](git/cherry-pick.md)
