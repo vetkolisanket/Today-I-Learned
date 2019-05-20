@@ -47,3 +47,16 @@ To show documents containing a particular field having values in a particular se
 ```
 db.<collection name>.find({"type":{"$in":["a","b","c"]}})
 ```
+
+To connect to a remote host
+```
+mongo "mongodb://<username>:<password>@<ip-address/host-name>:<port>"
+e.g. mongo "mongodb://alice:passwd@mongodb0.examples.com:27017"
+```
+
+Another way of connecting to a remote host
+```
+mongo --username alice --password --authenticationDatabase admin --host mongodb0.examples.com --port 28015
+```
+
+
