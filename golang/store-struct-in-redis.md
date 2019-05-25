@@ -40,4 +40,4 @@ func (r *Response) UnmarshalBinary(data []byte) error {
  err = response.UnmarshalBinary([]byte(s))
  ```
  
- You don't need have the intermediate dataBytes like in the first case, and the UnmarshalBinary is just plus point
+ You don't need to have the intermediate dataBytes like in the first case, and the UnmarshalBinary is just plus point
