@@ -8,4 +8,5 @@
 - [Mongo](../mongo/code-snippets.md)
 - [Flutter](../android/flutter/code-snippets.md)
 - [Git](../git/code-snippets.md)
+- [Supervisor](../supervisor/code-snippets.md)
 
