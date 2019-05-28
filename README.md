@@ -36,6 +36,7 @@ A collection of things I learn on a day to day basis about technology
 ## Git
 - [How to move a particular change (not the entire stash) from one branch to another](git/cherry-pick.md)
 - [How to move all the changes you have not commited from one branch to another](git/stash-unstash.md)
+- [How to change remote url. Migrate a project to a new location](git/change-remote-url.md)
 
 # [Code Snippets](code-snippets/readme.md)
 
