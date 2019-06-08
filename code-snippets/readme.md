@@ -9,4 +9,5 @@
 - [Flutter](../android/flutter/code-snippets.md)
 - [Git](../git/code-snippets.md)
 - [Supervisor](../supervisor/code-snippets.md)
+- [Misc](../misc/code-snippets.md)
 
