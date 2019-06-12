@@ -25,7 +25,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to link resources in javadoc comments](java/linking-resources-in-javadoc-comments.md)
 
 ## Kotlin
-- [Difference between a `const` and `val`](kotlin/difference-between-const-and-val)
+- [Difference between a `const` and `val`](kotlin/difference-between-const-and-val.md)
 
 ## Golang
 - [How to store structs onto redis in an efficient way](golang/store-struct-in-redis.md)
