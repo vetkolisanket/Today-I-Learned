@@ -11,3 +11,8 @@ git commit --amend
 ```
 git config --list
 ```
+
+- To list your remote branches
+```
+git branch
+```
