@@ -52,3 +52,6 @@ There are some helper methods to extract values from specific Exif tags. For loc
 
 Working with Exif: Everything is optional
 One thing that is important to understand with Exif data is that there are no required tags: each and every tag is optional - some services even specifically strip Exif data. Therefore throughout your code, you should always handle cases where there is no Exif data, either due to no data for a specific attribute or an image format that doesn't support Exif data at all (say, the ubiquitous PNGs or WebP images).
+
+
+[Reference](https://android-developers.googleblog.com/2016/12/introducing-the-exifinterface-support-library.html)
