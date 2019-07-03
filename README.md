@@ -28,6 +28,7 @@ A collection of things I learn on a day to day basis about technology
 ## Kotlin
 - [Difference between a `const` and `val`](kotlin/difference-between-const-and-val.md)
 - [Null safety and safe calls](kotlin/null-safety-and-safe-calls.md)
+- [Inline functions](kotlin/inline-functions.md)
 
 ## Golang
 - [How to store structs onto redis in an efficient way](golang/store-struct-in-redis.md)
