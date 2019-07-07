@@ -9,6 +9,7 @@ A collection of things I learn on a day to day basis about technology
 
 ### Constraint Layout
 - [How to constrain one side of a view to more than one view in ConstraintLayout?](android/constraint-layout/barriers.md)
+- [Circular positioning using constraint layout](android/constraint-layout/circular-positioning.md)
 
 ### Libraries
 - [How to display FPS a screen renders visually](android/libraries/TinyDancer.md)
