@@ -45,6 +45,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to move all the changes you have not commited from one branch to another](git/stash-unstash.md)
 - [How to change remote url. Migrate a project to a new location](git/change-remote-url.md)
 - [How to remove a file/directory from git repository](git/remove-file-or-directory-from-git-repository.md)
+- [How to change author info of previous commits in a repo](git/change-author-info.md)
 
 # [Code Snippets](code-snippets/readme.md)
 
