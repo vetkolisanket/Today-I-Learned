@@ -52,3 +52,5 @@ Clean up the temporary clone:
 cd ..
 rm -rf repo.git
 ```
+
+[Reference](https://help.github.com/en/articles/changing-author-info)
