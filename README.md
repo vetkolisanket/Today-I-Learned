@@ -34,6 +34,7 @@ A collection of things I learn on a day to day basis about technology
 ## Golang
 - [How to store structs onto redis in an efficient way](golang/store-struct-in-redis.md)
 - [gRPC in Go](golang/grpc-in-go.md)
+- [How to use Go's dependency management system](golang/dependency-management-system.md)
 
 ## Python
 - [Virtual Enviroment in Python](python/virtual-environment.md)
