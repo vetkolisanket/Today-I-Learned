@@ -48,6 +48,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to remove a file/directory from git repository](git/remove-file-or-directory-from-git-repository.md)
 - [How to change author info of previous commits in a repo](git/change-author-info.md)
 - [How to remove untracked files](git/remove-untracked-files.md)
+- [How to delete a git branch locally and remotely](git/delete-git-branch.md)
 
 ## TODOs
 - [Architectural Patterns (MVC, MVP, Hexagonal Architecture, Clean Architecure, Onion Architecture)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
