@@ -23,6 +23,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to start menu items in toolbar from left](android/general/menu-items-in-toolbar-from-left.md)
 - [How to read exif info from an image](android/general/exif-info-from-an-image.md)
 - [How to style text (bold, italic, underline) with almost no effort](android/general/style-text.md)
+- [Android activity launchModes and Intent flags](android/general/activity-launch-modes.md)
 
 ## Java
 - [How to link resources in javadoc comments](java/linking-resources-in-javadoc-comments.md)
