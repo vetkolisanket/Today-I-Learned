@@ -16,3 +16,6 @@
 - Switch to the branch and then:
 
 ```git push origin -u new-name```
+
+
+[Reference](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
