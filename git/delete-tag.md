@@ -17,3 +17,4 @@ Note that git has tag namespace and branch namespace so you may use the same nam
 ```
 git push origin :refs/tags/tagname
 ```
+[Reference](https://stackoverflow.com/a/5480292)
