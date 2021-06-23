@@ -53,6 +53,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to delete a git branch locally and remotely](git/delete-git-branch.md)
 - [How to rename a git branch locally and remotely](git/rename-git-branch.md)
 - [How to reset git password](git/reset-git-password.md)
+- [How to delete a tag locally and remotely](git/delete-tag.md)
 
 ## TODOs
 - [Architectural Patterns (MVC, MVP, MVVM, MVI, Hexagonal Architecture, Clean Architecure, Onion Architecture)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
