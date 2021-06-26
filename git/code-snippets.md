@@ -16,3 +16,9 @@ git config --list
 ```
 git branch
 ```
+
+- To create a tag
+```
+git tag -a <tag_name> -m "<message>"
+e.g. git tag -a v1.4 -m "Added so and so feature"
+``` 
