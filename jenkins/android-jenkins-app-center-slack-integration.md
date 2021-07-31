@@ -1,5 +1,7 @@
 # Build Android app on jenkins and notify on slack
 
+## Build apk
+
 - Select Freestyle project
 - Make sure git and gradle plugins are installed
 - Add appropriate description for your project
@@ -7,6 +9,15 @@
 - In source code management select git. Enter repository url and credentials if needed. Specify the branch you would like to build (e.g. */develop)
 - In Build section, select 'Use Gradle Wrapper' 
 - In tasks to build apk add 'clean assemble<Build Variant><Build Type>' (e.g. clean assembleStagingDebug)
+  
+## To run unit tests
+  
 - To run unit tests 'test<Build Variant><Build Type>UnitTest' (e.g. testStagingDebugUnitTest)
+  
+## To upload build to app center
+  
+- In your app's app center account, go to settings -> app api tokens and create a token which you'll be using in Jenkins
+- In Jenkins click add post build action -> select Upload app to AppCenter -> add the token copied from app center to Api Token field
+- Add the owner name and app name, path to apk in path to app field, add the appropriate distribution group, select notify testers
 
 [Reference](https://bugfender.com/blog/how-to-add-your-first-android-job-to-jenkins/amp/)
