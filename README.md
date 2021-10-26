@@ -26,6 +26,7 @@ A collection of things I learn on a day to day basis about technology
 - [How to style text (bold, italic, underline) with almost no effort](android/general/style-text.md)
 - [Android activity launchModes and Intent flags](android/general/activity-launch-modes.md)
 - [How to automate apk generation using jenkins, app center and slack](jenkins/android-jenkins-app-center-slack-integration.md)
+- [How to automate apk generation using jenkins, app center and slack advanced](jenkins/android-jenkins-app-center-slack-integration.md)
 
 ## Java
 - [How to link resources in javadoc comments](java/linking-resources-in-javadoc-comments.md)
