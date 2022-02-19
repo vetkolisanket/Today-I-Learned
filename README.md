@@ -28,6 +28,9 @@ A collection of things I learn on a day to day basis about technology
 - [How to automate apk generation using jenkins, app center and slack](jenkins/android-jenkins-app-center-slack-integration.md)
 - [How to automate apk generation using jenkins, app center and slack advanced](jenkins/android-jenkins-app-center-slack-integration.md)
 
+### Firebase
+- [Firebase app distribution](android/general/firebase-app-distribution.md)
+
 ## Java
 - [How to link resources in javadoc comments](java/linking-resources-in-javadoc-comments.md)
 
